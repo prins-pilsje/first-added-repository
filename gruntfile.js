@@ -49,8 +49,7 @@ module.exports = function (grunt) {
             }
         },
 
-        jslint: { // configure the task
-        // lint your project's server code
+        jslint: {
             server: {
                 src: ['gruntfile.js']
             }
