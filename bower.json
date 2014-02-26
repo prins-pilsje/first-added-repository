@@ -1,0 +1,10 @@
+{
+  "name": "Musterprojekt",
+  "version": "1.0.0",
+  "description" : "entschlacktes Musterprojekt",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.0",
+    "bootstrap": "~3.1.0"
+  }
+}
